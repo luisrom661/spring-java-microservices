@@ -9,10 +9,10 @@ Asegúrate de que tienes Java 8 o superior y Maven instalados. Luego, sigue esto
 
 ```bash
 # 2. Clona el repositorio desde GitHub
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/luisrom661/spring-java-microservices.git
 
 # 3. Navega al directorio del proyecto
-cd tu-proyecto
+cd microservices
 
 # 4. Compila y ejecuta la aplicación
 mvn spring-boot:run
